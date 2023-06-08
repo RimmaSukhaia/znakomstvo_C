@@ -1,0 +1,15 @@
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/bin/Debug/net6.0/les_1
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/bin/Debug/net6.0/les_1.deps.json
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/bin/Debug/net6.0/les_1.runtimeconfig.json
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/bin/Debug/net6.0/les_1.dll
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/bin/Debug/net6.0/les_1.pdb
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.csproj.AssemblyReference.cache
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.AssemblyInfoInputs.cache
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.AssemblyInfo.cs
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.dll
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/refint/les_1.dll
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.pdb
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/les_1.genruntimeconfig.cache
+/Users/air/Desktop/znakomstvo C#/lesson/les_1/obj/Debug/net6.0/ref/les_1.dll
